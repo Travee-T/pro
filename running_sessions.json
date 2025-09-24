@@ -1,1 +1,35 @@
-{"next_id": 1, "sessions": []}
+{
+    "next_id": 5,
+    "sessions": [
+        {
+            "file_name": "sessions_16282951307.session",
+            "start_time": "2025-09-23T22:26:25.085536+03:00",
+            "temporary": false,
+            "user_id": 8223026858,
+            "id": 1
+        },
+        {
+            "file_name": "sessions_9647813740307.session",
+            "start_time": "2025-09-23T22:26:55.380761+03:00",
+            "temporary": true,
+            "user_id": 8223026858,
+            "end_time": "2025-10-03T22:26:55.380774+03:00",
+            "id": 2
+        },
+        {
+            "file_name": "sessions_9647769263536.session",
+            "start_time": "2025-09-23T22:27:08.101687+03:00",
+            "temporary": true,
+            "user_id": 8223026858,
+            "end_time": "2025-10-20T22:27:08.101700+03:00",
+            "id": 3
+        },
+        {
+            "file_name": "sessions_16282951307.session",
+            "start_time": "2025-09-23T22:37:07.012201+03:00",
+            "temporary": false,
+            "user_id": 8223026858,
+            "id": 4
+        }
+    ]
+}
